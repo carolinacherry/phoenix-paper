@@ -47,7 +47,7 @@ See [`analysis/verification_checklist.md`](analysis/verification_checklist.md) f
   journal={GitHub Repository},
   year={2026},
   month={January},
-  url={https://github.com/CarolineCherry/phoenix-paper}
+  url={https://github.com/carolinacherry/phoenix-paper}
 }
 ```
 
